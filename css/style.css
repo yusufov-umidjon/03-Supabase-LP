@@ -3,7 +3,7 @@
 
 /* ROOT */
 :root{
-    --main-text-font: '';
+    --main-text-font: 'Roboto', sans-serif;
     --other-text-font: '';
     --main-accent-color: #4452FE;
     --main-text-color: #000;
